@@ -28,7 +28,7 @@ Premium Tools Store is a modern React-based web application where users can expl
 ---
 
 ## 🔗 Live Demo
-https://my-6th-assignment.vercel.app/
+https://digi-tools-beta.vercel.app
 
 ---
 
